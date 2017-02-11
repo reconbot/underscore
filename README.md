@@ -17,3 +17,6 @@ http://documentcloud.github.com/underscore/
 
 Many thanks to our contributors:
 https://github.com/documentcloud/underscore/contributors
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/underscore.svg)](https://greenkeeper.io/)
